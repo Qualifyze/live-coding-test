@@ -13,7 +13,7 @@ Our working student already spent some time on that PoC and provided you this as
 
 
 ```typescript
-export async const createPet = () => {
+export const createPet = async () => {
  const resp = await fetch(null);
 }
 ```
